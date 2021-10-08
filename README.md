@@ -15,15 +15,22 @@ Education
 
 2014-2015
 :   **Oklahoma School of Science and Mathematics**; Residential Campus (Oklahoma City)
-    *College credit for Data Structures I & II, Calculus I & II, Mechanics (Gen. Phys. I)*
+
+    State funded residential high school for select students.
+    - ACT: 33.25/35 superscore achieved
+    - College credit for Data Structures I & II, Calculus I & II, Mechanics (Gen. Phys. I)
 
 2015-2016
-:   **High School Diploma**; Henryetta High School (4.4+ weighted GPA 3.86 unweighted)
-    *Created computer science club to compete in ACSL, Honor Roll*
+:   **High School Diploma**; Henryetta High School (4.4+ weighted, GPA 3.86 unweighted GPA)
+    
+    - Created computer science club to compete in ACSL
+    - Honor Roll
     
 2015-2016
-:   **Associate of Science in Pre-Secondary Education**; Oklahoma State University Institute of Technology (3.94 Summa Cum Laude)
-    *Graduated Summer 2016*
+:   **Associate of Science in Pre-Secondary Education**; 
+     
+    - Oklahoma State University Institute of Technology (3.94 Summa Cum Laude)
+    - Graduated Summer 2016
     
 2016-
 :   **Bachelor of Computer Science**; University of Oklahoma-Norman Campus
@@ -52,26 +59,20 @@ Experience
 
 **Self-Employed at Telafast**
 Web Developement for Small Businesses
-- [Henryetta Community Skilled Healthcare & Rehab](henryettacommunityskilled.com)
-- [Colonial Park Manor](colonialparkmanor.com)
-- [Heritage Village Nursing Center](heritagevillagenursingcenter.com)
+- [Henryetta Community Skilled Healthcare & Rehab](https://henryettacommunityskilled.com)
+- [Colonial Park Manor](https://colonialparkmanor.com)
+- [Heritage Village Nursing Center](https://heritagevillagenursingcenter.com)
 
 **Education Support Specialist - OU Center for Public Management**
   - Provide client assistance through inbound phone support by conducting initial assessment, research and resolution.
-  - Navigating case management and database systems ensuring client confidentiality is maintained.
-• Providing education and technical assistance for state agency customers regarding program and case details and associated follow-up requirements.
-• Maintaining case management systems by documenting any required follow-up and contact outcomes.
-
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+  - Navigate case management and database systems and ensure client confidentiality.
+  - Provide education and technical assistance for state agency customers regarding program and case details and associated follow-up requirements.
+  - Maintaining case management systems by documenting any required follow-up and contact outcomes.
+  - Personal Projects
+      - [OKDHS-Live! Website Project (IN DEVELOPEMENT)](https://okdhslive.gatsbyjs.io)
+         - [Github Repository](https://github.com/NickSmithSoftware/okdhs-live-gatsby-website)
+      - [OKDHS-Live! Utility Application (IN DEVELOPEMENT)](https://github.com/NickSmithSoftware/okdhs-live-util-app/raw/master/out/make/squirrel.windows/x64/okdhs-live-util-app-1.0.0%20Setup.exe)
+         - [Github Repository](https://github.com/NickSmithSoftware/okdhs-live-util-app)
 
 Technical Experience
 --------------------
