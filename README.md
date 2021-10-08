@@ -1,4 +1,4 @@
-# Nicolas Smith
+# **Nicolas Smith**
 4101 24th Ave SE #8                   
 Norman, OK                        
 United States
