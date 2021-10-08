@@ -1,5 +1,4 @@
 # Nicolas Smith
-----------------------
 4101 24th Ave SE #8                   
 Norman, OK                        
 United States
@@ -8,110 +7,123 @@ Phone: (918) 639 - 8086
 
 Email: nicksmithsoftware@gmail.com
 
-----------------------
+# Education
 
-Education
----------
+## Oklahoma School of Science and Mathematics (2014-2015)
+   - Residential campus in Oklahoma City downtown area.
+        - State funded residential high school for students selected by rigorous application process.
+        - 33.25/35 ACT superscore achieved.
+        - College credit earned for Data Structures I & II, Calculus I & II, Mechanics (Gen. Phys. I).
 
-2014-2015
-:   **Oklahoma School of Science and Mathematics**; Residential Campus (Oklahoma City)
-
-    State funded residential high school for select students.
-    - ACT: 33.25/35 superscore achieved
-    - College credit for Data Structures I & II, Calculus I & II, Mechanics (Gen. Phys. I)
-
-2015-2016
-:   **High School Diploma**; Henryetta High School (4.4+ weighted, GPA 3.86 unweighted GPA)
+## High School Diploma (2015-2016)
+   - Henryetta High School 
+        - Rank 1 Valedictorian
+        - 4.4+ weighted GPA - 3.86 unweighted GPA
+        - Created computer science club to compete in ACSL
+        - Honor Society
     
-    - Created computer science club to compete in ACSL
-    - Honor Roll
+## Associate of Science in Pre-Secondary Education (2015-2016)
+   - Oklahoma State University Institute of Technology
+        - 3.94 GPA
+        - Summa Cum Laude
+        - Graduated Summer 2016
     
-2015-2016
-:   **Associate of Science in Pre-Secondary Education**; 
-     
-    - Oklahoma State University Institute of Technology (3.94 Summa Cum Laude)
-    - Graduated Summer 2016
-    
-2016-
-:   **Bachelor of Computer Science**; University of Oklahoma-Norman Campus
-
-    Math minor/major
-      - Calculus III/IV
-      - Discrete Structures
-      - Linear Algebra
-      - Intro to Ordinary Differential Equations
-      - Applied Statistical Methods
+## Bachelor of Computer Science (2016-INCOMPLETE)
+   - University of Oklahoma Coursework
+       - Math minor/major
+          - Calculus III/IV
+          - Discrete Structures
+          - Linear Algebra
+          - Intro to Ordinary Differential Equations
+          - Applied Statistical Methods
       
-    Computer Science
-      - Data Structures
-      - Computer Organization
-      - Discrete Structures
-      - Principles for Programming Languages
-      - Applied Statistical Methods
+        - Computer Science
+          - Data Structures
+          - Computer Organization
+          - Discrete Structures
+          - Principles for Programming Languages
+          - Applied Statistical Methods
       
-    Professional Developement / Miscellaneous
-      - Professional Developement
-      - Software Requirements & Specifications
-      - Physics I & II
+        - Professional Developement / Miscellaneous
+          - Professional Developement
+          - Software Requirements & Specifications
+          - Physics I & II
 
-Experience
-----------
+# Experience
 
-**Self-Employed at Telafast**
-Web Developement for Small Businesses
-- [Henryetta Community Skilled Healthcare & Rehab](https://henryettacommunityskilled.com)
-- [Colonial Park Manor](https://colonialparkmanor.com)
-- [Heritage Village Nursing Center](https://heritagevillagenursingcenter.com)
+## Self-Employed at Telafast
+   -   Web Developement for Small Businesses
+        - [Henryetta Community Skilled Healthcare & Rehab](https://henryettacommunityskilled.com)
+        - [Colonial Park Manor](https://colonialparkmanor.com)
+        - [Heritage Village Nursing Center](https://heritagevillagenursingcenter.com)
 
-**Education Support Specialist - OU Center for Public Management**
+## Education Support Specialist - OU Center for Public Management
   - Provide client assistance through inbound phone support by conducting initial assessment, research and resolution.
   - Navigate case management and database systems and ensure client confidentiality.
   - Provide education and technical assistance for state agency customers regarding program and case details and associated follow-up requirements.
   - Maintaining case management systems by documenting any required follow-up and contact outcomes.
   - Personal Projects
-      - [OKDHS-Live! Website Project (IN DEVELOPEMENT)](https://okdhslive.gatsbyjs.io)
+      - [OKDHS-Live! Website Project (DEMO - IN DEVELOPEMENT)](https://okdhslive.gatsbyjs.io)
          - [Github Repository](https://github.com/NickSmithSoftware/okdhs-live-gatsby-website)
-      - [OKDHS-Live! Utility Application (IN DEVELOPEMENT)](https://github.com/NickSmithSoftware/okdhs-live-util-app/raw/master/out/make/squirrel.windows/x64/okdhs-live-util-app-1.0.0%20Setup.exe)
+      - [OKDHS-Live! Utility Application (DEMO - IN DEVELOPEMENT)](https://github.com/NickSmithSoftware/okdhs-live-util-app/raw/master/out/make/squirrel.windows/x64/okdhs-live-util-app-1.0.0%20Setup.exe)
          - [Github Repository](https://github.com/NickSmithSoftware/okdhs-live-util-app)
 
-Technical Experience
---------------------
+# Technical Experience
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+## Food Pantry Scraper
+   - Scrapy framework.
+   - Pulls Oklahoma food pantry data off of [foodpantries.org](https://foodpantries.org).
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+## OKDHS-Live! Utility Application - [Demo](https://github.com/NickSmithSoftware/okdhs-live-util-app/raw/master/out/make/squirrel.windows/x64/okdhs-live-util-app-1.0.0%20Setup.exe) - [Repo](https://github.com/NickSmithSoftware/okdhs-live-util-app)
+   - Application for call center / case workers to improve operational efficiency and accessibility.
+   - Uses: Electron.js, React, Webpack, Javascript/Typescript, Bootstrap, Axios, MongoDB
+   - DEVELOPED/DEVELOPING => Resource Look Up through various APIs
+        - findOtherResource: TBD
+        - findPantryFunction: developing/developed = (query) => MongoDB API => JSON Pantry[]
+        - findPantryFunction: planned = (query: location|text) => Geocoding API || MongoDB API => JSON Pantry[]
+    - PLANNED => MongoDB of client benefit information (fake)
+    - PLANNED => Application/Renewal database submission
+    - PLANNED => Case Update/View
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+## OKDHS-Live! Website 
+   - Website to provide better performance and ease of use to a wide variety of people.
+   - Uses: Gatsby, React, Bootstrap, Javascript, Bootstrap, MongoDB (planned), APIs (planned)
+   - Easily packaged into an easy phone application for people who struggle with computers.
+        - PLANNED => Create React Native app of website compatible with government phone.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+## Programming Languages
+-   Knowledgable
+    -   Java
+    -   JavaScript/TypeScript ES(5-8)
+    -   Python
+    -   C/C++/C#
+-   BASIC Knowledge
+    -   BASIC
+    -   Batch
+    -   Lisp
+    -   Lua
+    -   PHP
+    -   PowerShell
+    -   SQL
+    -   R
+    -   VBA
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+## Frameworks/Databases/Misc.
+-   ReactJS
+-   Bootstrap
+-   Gatsby
+-   Scrapy
+-   MongoDB/SQL
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
+## Markup/Stylesheet Languages
+-   SVG
+-   CSS3
+-   SASS
+-   HTML5
+-   LaTeX
+-   Markdown
+-   R Markdown
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
