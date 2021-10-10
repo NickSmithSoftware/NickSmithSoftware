@@ -90,7 +90,7 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
     - PLANNED => Application/Renewal database submission
     - PLANNED => Case Update/View
 
-## OKDHS-Live! Website 
+## OKDHS-Live! Website - [Demo](https://okdhslive.gatsbyjs.io) - [Repo](https://github.com/NickSmithSoftware/okdhs-live-gatsby-website)
    - Website to provide better performance and ease of use to a wide variety of people.
    - Uses: Gatsby, React, Bootstrap, Javascript, Bootstrap, MongoDB (planned), APIs (planned)
    - Easily packaged into an easy phone application for people who struggle with computers.
