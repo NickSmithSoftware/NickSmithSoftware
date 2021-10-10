@@ -66,7 +66,7 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
   - Navigate case management and database systems and ensure client confidentiality.
   - Provide education and technical assistance for state agency customers regarding program and case details and associated follow-up requirements.
   - Maintaining case management systems by documenting any required follow-up and contact outcomes.
-  - Personal Projects
+  - Personal Projects:
       - [OKDHS-Live! Website Project (DEMO - IN DEVELOPEMENT)](https://okdhslive.gatsbyjs.io)
          - [Github Repository](https://github.com/NickSmithSoftware/okdhs-live-gatsby-website)
       - [OKDHS-Live! Utility Application (DEMO - IN DEVELOPEMENT)](https://github.com/NickSmithSoftware/okdhs-live-util-app/raw/master/out/make/squirrel.windows/x64/okdhs-live-util-app-1.0.0%20Setup.exe)
@@ -95,11 +95,12 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
    - Uses: Gatsby, React, Bootstrap, Javascript, Bootstrap, MongoDB (planned), APIs (planned)
    - Easily packaged into an easy phone application for people who struggle with computers.
         - PLANNED => Create React Native app of website compatible with government phone.
+   - Mobile Responsive with dark mode toggle.
 
 ## Nursing Home websites - [[Template Repo]](https://github.com/NickSmithSoftware/telafast-hcshr-copy)
    - Websites to promote respective businesses.
    - Quick, simple design.
-   - Mobile Responsive
+   - Mobile Responsive.
 
 ## Programming Languages
 -   Knowledgable
