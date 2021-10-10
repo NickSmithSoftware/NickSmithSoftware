@@ -7,6 +7,10 @@ Phone: (918) 639 - 8086
 
 Email: nicksmithsoftware@gmail.com
 
+# Professional Summary
+
+Experienced programmer and Computer Science enthusiast since 2013 when I began writing code for games. Worked on many things beginning in high school such as robotics, full stack web developement, A.I., data structures, and graph algorithms. Excellent reputation for resolving problems, learning on the job, meeting employer needs and consistently improving efficiency.
+
 # Education
 
 ## Oklahoma School of Science and Mathematics (2014-2015)
@@ -28,9 +32,9 @@ Email: nicksmithsoftware@gmail.com
         - Summa Cum Laude
         - Graduated Summer 2016
     
-## Bachelor of Computer Science (2016-INCOMPLETE)
-   - University of Oklahoma Coursework
-       - Math minor/major
+## Bachelor of Computer Science (2016-Unfinished)
+   - University of Oklahoma relevant coursework
+       - Math
           - Calculus III/IV
           - Discrete Structures
           - Linear Algebra
@@ -52,7 +56,7 @@ Email: nicksmithsoftware@gmail.com
 # Experience
 
 ## Self-Employed at Telafast
-   -   Web Developement for Small Businesses
+   -   Web Developement for Small Businesses - [**Template Repo**](https://github.com/NickSmithSoftware/telafast-hcshr-copy)
         - [Henryetta Community Skilled Healthcare & Rehab](https://henryettacommunityskilled.com)
         - [Colonial Park Manor](https://colonialparkmanor.com)
         - [Heritage Village Nursing Center](https://heritagevillagenursingcenter.com)
@@ -70,9 +74,10 @@ Email: nicksmithsoftware@gmail.com
 
 # Technical Experience
 
-## Food Pantry Scraper
+## Food Pantry Scraper - [Repo](https://github.com/NickSmithSoftware/food-pantry-scraper)
    - Scrapy framework.
    - Pulls Oklahoma food pantry data off of [foodpantries.org](https://foodpantries.org).
+   - Uses xpath and css selectors to traverse and download content.
 
 ## OKDHS-Live! Utility Application - [Demo](https://github.com/NickSmithSoftware/okdhs-live-util-app/raw/master/out/make/squirrel.windows/x64/okdhs-live-util-app-1.0.0%20Setup.exe) - [Repo](https://github.com/NickSmithSoftware/okdhs-live-util-app)
    - Application for call center / case workers to improve operational efficiency and accessibility.
@@ -90,6 +95,11 @@ Email: nicksmithsoftware@gmail.com
    - Uses: Gatsby, React, Bootstrap, Javascript, Bootstrap, MongoDB (planned), APIs (planned)
    - Easily packaged into an easy phone application for people who struggle with computers.
         - PLANNED => Create React Native app of website compatible with government phone.
+
+## Nursing Home websites - [[Template Repo]](https://github.com/NickSmithSoftware/telafast-hcshr-copy)
+   - Websites to promote respective businesses.
+   - Quick, simple design.
+   - Mobile Responsive
 
 ## Programming Languages
 -   Knowledgable
@@ -114,6 +124,9 @@ Email: nicksmithsoftware@gmail.com
 -   Gatsby
 -   Scrapy
 -   MongoDB/SQL
+-   Stripe
+-   JQuery/GraphQL
+-   Git
 
 
 ## Markup/Stylesheet Languages
@@ -125,15 +138,8 @@ Email: nicksmithsoftware@gmail.com
 -   Markdown
 -   R Markdown
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+# More About Me
 
-* Human Languages:
+I enjoy competition, overly object oriented robust code, golfing, eSports, and programming languages with good error logging.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+In my free time I like tinkering on PC's and printing random things with my 3D printer.
