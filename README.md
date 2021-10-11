@@ -17,43 +17,39 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
 
 ### Oklahoma School of Science and Mathematics (2014-2015)
    - Residential campus in Oklahoma City downtown area.
-        - State funded residential high school for students selected by rigorous application process.
-        - 33.25/35 ACT superscore achieved.
-        - College credit earned for Data Structures I & II, Calculus I & II, Mechanics (Gen. Phys. I).
+      - State funded residential high school for students selected by rigorous application process.
+      - 33.25/35 ACT superscore achieved.
+      - College credit earned for Data Structures I & II, Calculus I & II, Mechanics (Gen. Phys. I).
 
 ### High School Diploma (2015-2016)
    - Henryetta High School 
-        - Rank 1 Valedictorian
-        - 4.4+ weighted GPA - 3.86 unweighted GPA
-        - Created computer science club to compete in ACSL
-        - Honor Society
+      - Rank 1 Valedictorian
+      - 4.4+ weighted GPA - 3.86 unweighted GPA
+      - Created computer science club to compete in ACSL
+      - Honor Society
     
 ### Associate of Science in Pre-Secondary Education (2015-2016)
    - Oklahoma State University Institute of Technology
-        - 3.94 GPA
-        - Summa Cum Laude
-        - Graduated Summer 2016
+      - 3.94 GPA
+      - Summa Cum Laude
+      - Graduated Summer 2016
     
 ### Bachelor of Computer Science (2016-Unfinished)
    - University of Oklahoma relevant coursework
-       - Math
-          - Calculus III/IV
-          - Discrete Structures
-          - Linear Algebra
-          - Intro to Ordinary Differential Equations
-          - Applied Statistical Methods
-      
-        - Computer Science
-          - Data Structures
-          - Computer Organization
-          - Discrete Structures
-          - Principles for Programming Languages
-          - Applied Statistical Methods
-      
-        - Professional Developement / Miscellaneous
-          - Professional Developement
-          - Software Requirements & Specifications
-          - Physics I & II
+      - Math
+         - Calculus III/IV
+         - Linear Algebra
+         - Intro to Ordinary Differential Equations
+      - Computer Science
+         - Data Structures
+         - Computer Organization
+         - Discrete Structures
+         - Principles for Programming Languages
+         - Applied Statistical Methods
+      - Professional Developement / Miscellaneous
+         - Professional Developement
+         - Software Requirements & Specifications
+         - Physics I & II
 
 ## Experience
 
@@ -123,16 +119,13 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
 
 ### Technologies
    -   ReactJS -   Bootstrap -   Gatsby -   MongoDB/SQL -   Stripe -   JQuery/GraphQL -   Scrapy
+
    -   HTML5 -   CSS3 -   SASS -   Markdown -   R Markdown -   LaTeX
 
 ## More About Me
 
 I enjoy competition, overly object oriented robust code, golfing, eSports, puzzles, and programming languages with good error logging.
-
 In my free time I like building PCs and printing random things with my 3D printer.
-
 I love thrills even though I have a fear of heights so I try to visit theme parks as much as I can.
-
 My future interests include building cars, learning about aerospace engineering, and inventing things.
-
 My passion is for the challenge and the ability to bring concepts in my head to life.
