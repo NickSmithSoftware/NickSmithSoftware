@@ -55,7 +55,7 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
 
 # Experience
 
-## Self-Employed at Telafast
+## Self-Employed - Telafast LLC
    -   Web Developement for Small Businesses - [**Template Repo**](https://github.com/NickSmithSoftware/telafast-hcshr-copy)
         - [Henryetta Community Skilled Healthcare & Rehab](https://henryettacommunityskilled.com)
         - [Colonial Park Manor](https://colonialparkmanor.com)
