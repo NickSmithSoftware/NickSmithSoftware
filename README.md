@@ -139,6 +139,8 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
 
 I enjoy competition, overly object oriented robust code, golfing, eSports, puzzles, and programming languages with good error logging.
 
-In my free time I like tinkering on PC's and printing random things with my 3D printer.
+In my free time I like building PC's and printing random things with my 3D printer.
 
-I enjoy starting new projects with new programming languages, libraries and frameworks.
+Occasionally I fish or hunt with my family.
+
+I love thrills even though I have a fear of heights so I try to visit theme parks as much as I can for the fantasy and entertainment.
