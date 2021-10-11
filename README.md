@@ -145,4 +145,4 @@ I love thrills even though I have a fear of heights so I try to visit theme park
 
 My future interests include building cars, learning about aerospace engineering, and inventing things.
 
-Everything I do, I love for the challenge and the ability to bring concepts in my head to life.
+My passion is for the challenge and the ability to bring concepts in my head to life.
