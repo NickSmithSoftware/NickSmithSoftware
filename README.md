@@ -104,19 +104,19 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
 
 ## Programming Languages 
    - Sorted by use frequency
-    -   JavaScript/TypeScript ES(5-8)
-    -   Python
-    -   C/C++/C#
-    -   Java
-    -   PowerShell
-    -   R
-    -   SQL
-    -   Lisp
-    -   BASIC
-    -   Batch
-    -   Lua
-    -   PHP
-    -   VBA
+      -   JavaScript/TypeScript ES(5-8)
+      -   Python
+      -   C/C++/C#
+      -   Java
+      -   PowerShell
+      -   R
+      -   SQL
+      -   Lisp
+      -   BASIC
+      -   Batch
+      -   Lua
+      -   PHP
+      -   VBA
 
 ## Frameworks/Databases/Misc.
 -   ReactJS
@@ -137,6 +137,8 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
 
 # More About Me
 
-I enjoy competition, overly object oriented robust code, golfing, eSports, and programming languages with good error logging.
+I enjoy competition, overly object oriented robust code, golfing, eSports, puzzles, and programming languages with good error logging.
 
 In my free time I like tinkering on PC's and printing random things with my 3D printer.
+
+I enjoy starting new projects with new programming languages, libraries and frameworks.
