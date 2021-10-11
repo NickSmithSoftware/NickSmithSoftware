@@ -102,21 +102,20 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
    - Quick, simple design.
    - Mobile Responsive.
 
-## Programming Languages
--   Knowledgable
-    -   Java
+## Programming Languages 
+   - Sorted by use frequency
     -   JavaScript/TypeScript ES(5-8)
     -   Python
     -   C/C++/C#
--   BASIC Understanding Knowledge
+    -   Java
+    -   PowerShell
+    -   R
+    -   SQL
+    -   Lisp
     -   BASIC
     -   Batch
-    -   Lisp
     -   Lua
     -   PHP
-    -   PowerShell
-    -   SQL
-    -   R
     -   VBA
 
 ## Frameworks/Databases/Misc.
@@ -127,8 +126,6 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
 -   Stripe
 -   JQuery/GraphQL
 -   Scrapy
--   Git
-
 
 ## Markup/Stylesheet Languages
 -   HTML5
