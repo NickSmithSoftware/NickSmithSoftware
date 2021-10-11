@@ -108,7 +108,7 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
     -   JavaScript/TypeScript ES(5-8)
     -   Python
     -   C/C++/C#
--   BASIC Knowledge
+-   BASIC Understanding Knowledge
     -   BASIC
     -   Batch
     -   Lisp
@@ -123,21 +123,20 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
 -   ReactJS
 -   Bootstrap
 -   Gatsby
--   Scrapy
 -   MongoDB/SQL
 -   Stripe
 -   JQuery/GraphQL
+-   Scrapy
 -   Git
 
 
 ## Markup/Stylesheet Languages
--   SVG
+-   HTML5
 -   CSS3
 -   SASS
--   HTML5
--   LaTeX
 -   Markdown
 -   R Markdown
+-   LaTeX
 
 # More About Me
 
