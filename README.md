@@ -141,4 +141,8 @@ I enjoy competition, overly object oriented robust code, golfing, eSports, puzzl
 
 In my free time I like building PC's and printing random things with my 3D printer and occasionally I fish or hunt with my family.
 
-I love thrills even though I have a fear of heights so I try to visit theme parks as much as I can for the fantasy and entertainment.
+I love thrills even though I have a fear of heights so I try to visit theme parks as much as I can.
+
+My future interests include building cars, learning about aerospace engineering, and inventing things.
+
+Everything I do, I love for the challenge and the ability to bring concepts in my head to life.
