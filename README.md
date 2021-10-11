@@ -11,7 +11,7 @@ Github: https://github.com/nicksmithsoftware
 
 ## Professional Summary
 
-Experienced programmer and Computer Science enthusiast since 2013 when I began writing code for games. Worked on many things beginning in high school such as robotics, full stack web developement, A.I., data structures, and graph algorithms. Excellent reputation for resolving problems, learning on the job, meeting employer needs and consistently improving efficiency.
+Experienced programmer and Computer Science enthusiast since 2013 when I began writing code for games. Worked on many things beginning in high school such as robotics, full stack web developement, artificial intelligence, data structures, and graph algorithms. Excellent reputation for resolving problems, learning on the job, meeting employer needs and consistently improving efficiency.
 
 ## Education
 
