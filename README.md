@@ -73,6 +73,10 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
 
 ## Technical Experience
 
+## OKDHS Visual Basic Macro for Workspace Reflection - [Repo](https://github.com/NickSmithSoftware/okdhs-macro)
+   - Macro to input and pull data to and from Workspace Reflection
+   - PLANNED = data(Excel/csv/json?) => external application/UI for ease of use
+
 ### Food Pantry Scraper - [Repo](https://github.com/NickSmithSoftware/food-pantry-scraper)
    - Scrapy framework.
    - Pulls Oklahoma food pantry data off of [foodpantries.org](https://foodpantries.org).
