@@ -64,16 +64,18 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
   - Provide client assistance through inbound phone support by conducting initial assessment, research and resolution.
   - Navigate case management and database systems and ensure client confidentiality.
   - Provide education and technical assistance for state agency customers regarding program and case details and associated follow-up requirements.
-  - Maintaining case management systems by documenting any required follow-up and contact outcomes.
-  - Personal Projects:
-      - [OKDHS-Live! Website Project (DEMO - IN DEVELOPEMENT)](https://okdhslive.netlify.app)
-         - [Github Repository](https://github.com/NickSmithSoftware/okdhs-live-gatsby-website)
-      - [OKDHS-Live! Utility Application (DEMO - IN DEVELOPEMENT)](https://github.com/NickSmithSoftware/okdhs-live-util-app/raw/master/out/make/squirrel.windows/x64/okdhs-live-util-app-1.0.0%20Setup.exe)
-         - [Github Repository](https://github.com/NickSmithSoftware/okdhs-live-util-app)
+  - Maintain case management systems by documenting any required follow-up and contact outcomes.
 
 ## Technical Experience
 
-## OKDHS Visual Basic Macro for Workspace Reflection - [Repo](https://github.com/NickSmithSoftware/okdhs-macro)
+### OKDHS Upload App [Repo](https://github.com/NickSmithSoftware/okdhs-app)
+   - User wants to upload files.
+   - OKDHS website is difficult and has complicated constraints.
+   - User will input identifying info, select verification from phone files or camera, upload and automatically scale image for database.
+   - Will provide feedback on document legibility.
+   - PLANNED => future expansion into an application/renewal/information app
+
+### OKDHS Visual Basic Macro for Workspace Reflection - [Repo](https://github.com/NickSmithSoftware/okdhs-macro)
    - Macro to input and pull data to and from Workspace Reflection
    - PLANNED = data(Excel/csv/json?) => external application/UI for ease of use
 
