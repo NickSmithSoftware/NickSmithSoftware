@@ -75,7 +75,7 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
    - Will provide feedback on document legibility.
    - PLANNED => future expansion into an application/renewal/information app
 
-### OKDHS Visual Basic Macro for Workspace Reflection - [Repo](https://github.com/NickSmithSoftware/okdhs-macro)
+### OKDHS Visual Basic Macro for Workspace Reflection - [Repo](https://github.com/NickSmithSoftware/okdhs-macros)
    - Macro to input and pull data to and from Workspace Reflection
    - PLANNED = data(Excel/csv/json?) => external application/UI for ease of use
 
@@ -102,7 +102,7 @@ Experienced programmer and Computer Science enthusiast since 2013 when I began w
         - PLANNED => Create React Native app of website compatible with government phone.
    - Mobile Responsive with dark mode toggle.
 
-### Nursing Home Websites - [[Template Repo]](https://github.com/NickSmithSoftware/telafast-hcshr-copy)
+### Nursing Home Websites - [Demo](https://colonialparkmanor.com) - [Template Repo](https://github.com/NickSmithSoftware/telafast-hcshr-copy)
    - Websites to promote respective businesses.
    - Quick, simple design.
    - Mobile Responsive.
