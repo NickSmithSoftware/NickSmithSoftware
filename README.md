@@ -1,13 +1,4 @@
 # **Nicolas Smith**
-4101 24th Ave SE #8                   
-Norman, OK                        
-United States
-
-Phone: (918) 639 - 8086
-
-Email: nicksmithsoftware@gmail.com
-
-Github: https://github.com/nicksmithsoftware
 
 ## Professional Summary
 
