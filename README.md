@@ -27,7 +27,7 @@ Dec. 2020 - Present
 ## Education
 
 **University of Oklahoma | 2020**
-Unnished B.S. Computer Science w/ Mathematics minor (Senior)
+Unfinished B.S. Computer Science w/ Mathematics minor (Senior)
 
 **Oklahoma State University Institute of Technology | 2016**
 A.S. Education Summa Cum Laude
